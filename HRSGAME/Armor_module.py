@@ -1,0 +1,22 @@
+class Helmet():
+    def __init__(self, init_name=None, init_value=0):
+        self.name = init_name
+        self.value = init_value
+
+
+class BodyArmor():
+    def __init__(self, init_name=None, init_value=0):
+        self.name = init_name
+        self.value = init_value
+
+
+class Boots():
+    def __init__(self, init_name=None, init_value=0):
+        self.name = init_name
+        self.value = init_value
+
+
+class Shield():
+    def __init__(self, init_name=None, init_value=0):
+        self.name = init_name
+        self.value = init_value
